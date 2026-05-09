@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+*.egg-info/
+.eggs/
+*.spec.bak
+test_*.docx
+test_*.py
+.vscode/
+.idea/
+*.tmp
