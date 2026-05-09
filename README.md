@@ -53,4 +53,3 @@ python main.py table-only <doc_path> [-o 输出路径]
 ```bash
 python build.py --clean
 ```
-
